@@ -8,3 +8,8 @@ There are three screen block, total/pass/fail.
 This code uses getx to notify value change.
 
 ![Screen](pass_fail_counter.png)
+
+## TODO
+
+- Apply Riverpod
+- Add REC button with scrollable view to see history
