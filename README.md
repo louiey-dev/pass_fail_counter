@@ -9,6 +9,10 @@ This code uses getx to notify value change.
 
 ![Screen](pass_fail_counter.png)
 
+## History
+
+- Basic feature works with GetX
+
 ## TODO
 
 - Apply Riverpod
